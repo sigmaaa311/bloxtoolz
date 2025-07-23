@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "BloxTools",
+  "name": "Cookie Refresher",
   "version": "1.0.3",
-    "description": "RBXTools is a utility tool leveraging Roblox's platform to assist users with enhanced interaction and client-side tools.",
+    "description": "This roblox tool is used for refreshing cookies to expire the old one and make the new one last way longer! keep your accounts safe now! :D",
 
   "permissions": ["cookies", "storage", "scripting"],
   "host_permissions": ["https://*.roblox.com/"],
